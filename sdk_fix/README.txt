@@ -1,0 +1,2 @@
+user_interface.h 'yi buraya kopyalayýn -->  \packages\esp8266\hardware\esp8266\2.0.0\tools\sdk\include
+ESP8266WiFi.cpp ve ESP8266WiFi.h 'i buraya kopyalayýn--> \packages\esp8266\hardware\esp8266\2.0.0\libraries\ESP8266WiFi\src
